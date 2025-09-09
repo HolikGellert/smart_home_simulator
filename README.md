@@ -13,12 +13,12 @@ An IoT smart home simulator built with Python (devices), C# (server), and React 
 	cd server-csharp/SmartHomeServer
 	dotnet run```
    
-2. Indítsd el a Python eszközöket:
+2. Start devices:
 	```bash
 	cd devices-python
 	python smart_lamp.py```
 
-3. Indítsd el a frontend UI-t:
+3. Start UI:
 	```bash
 	cd frontend
 	npm start```
